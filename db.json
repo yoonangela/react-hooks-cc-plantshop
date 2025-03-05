@@ -41,6 +41,42 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "new plant",
+      "image": "\"./assets/ramen/shoyu.jpg\"",
+      "price": "0.08",
+      "id": 8
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 9
+    },
+    {
+      "name": "ss",
+      "image": "ss",
+      "price": "0.01",
+      "id": 10
+    },
+    {
+      "name": "yes",
+      "image": "\"./assets/ramen/shoyu.jpg\"",
+      "price": "0.02",
+      "id": 11
+    },
+    {
+      "name": "name",
+      "image": "ww",
+      "price": "0.01",
+      "id": 12
+    },
+    {
+      "name": "wow",
+      "image": "ww",
+      "price": "0.01",
+      "id": 13
     }
   ]
 }
